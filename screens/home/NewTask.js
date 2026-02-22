@@ -51,7 +51,8 @@ function NewTaskScreen({navigation}){
         >
       <Image 
       source={require("../../assets/left-arrow.png")}
-      style={{width: 25, height: 25, resizeMode: "contain"}}
+      style={{width: 25, height: 25,}}
+      resizeMode="contain"
       />
       </Pressable>
       <Text style={styles.headerText}>New Task</Text>

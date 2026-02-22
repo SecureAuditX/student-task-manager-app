@@ -128,7 +128,7 @@ function HomeScreen({navigation}){
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#FFFFFF",
+        backgroundColor: "#F8FAFC",
         paddingHorizontal: 20,
         paddingTop: 20
     },
