@@ -63,13 +63,13 @@ with backend services and deployment planned for later stages.
 
 ### 🏠 Home / Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 ---
 
 ### ⚙️ User Settings
 
-![Settings Screenshot](settings.png)
+![Settings Screenshot](settings.jpg)
 
 ---
 
