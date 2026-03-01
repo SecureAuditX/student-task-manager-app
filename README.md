@@ -1,5 +1,11 @@
 # 🎓 Student Task Manager (Mobile App)
 
+### 🏠 Dashboard and ⚙️ User Settings
+
+![Sample](StudentTaskManager.jpg)
+
+
+
 ![Expo](https://img.shields.io/badge/Expo%20SDK-54.x-000020?logo=expo\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-0.81-blue?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-yellow?logo=javascript)
@@ -56,15 +62,6 @@ with backend services and deployment planned for later stages.
 
 * iOS vs Android picker behavior
 * Platform-specific UI adjustments
-
----
-
-## 🖼 Screenshots
-
-### 🏠 Home / Dashboard and 
-### ⚙️ User Settings
-
-![Sample](StudentTaskManager.jpg)
 
 ---
 
