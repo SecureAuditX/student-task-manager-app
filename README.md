@@ -63,17 +63,13 @@ with backend services and deployment planned for later stages.
 
 ### 🏠 Home / Dashboard
 
-> *Screenshot will be added*
-
-![Dashboard Screenshot](./assets/screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
 ### ⚙️ User Settings
 
-> *Screenshot will be added*
-
-![Settings Screenshot](./assets/screenshots/settings.png)
+![Settings Screenshot](settings.png)
 
 ---
 
