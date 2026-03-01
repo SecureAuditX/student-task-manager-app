@@ -83,7 +83,7 @@ with backend services and deployment planned for later stages.
 App.js
 navigation/
   ├─ AuthStack.js
-  ├─ AppStack.js	t
+  ├─ AppStack.js	
   ├─ AppTabs.js
 context/
   ├─ AuthContext.js
