@@ -64,7 +64,7 @@ with backend services and deployment planned for later stages.
 ### 🏠 Home / Dashboard and 
 ### ⚙️ User Settings
 
-![Sample](dashboard.jpg)
+![Sample](StudentTaskManager.jpg)
 
 ---
 
