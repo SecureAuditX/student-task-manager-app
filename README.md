@@ -61,15 +61,10 @@ with backend services and deployment planned for later stages.
 
 ## 🖼 Screenshots
 
-### 🏠 Home / Dashboard
-
-![Dashboard Screenshot](dashboard.jpg)
-
----
-
+### 🏠 Home / Dashboard and 
 ### ⚙️ User Settings
 
-![Settings Screenshot](settings.jpg)
+![Sample](dashboard.jpg)
 
 ---
 
