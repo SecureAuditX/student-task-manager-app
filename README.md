@@ -40,6 +40,8 @@ with backend services and deployment planned for later stages.
 * **Expo (SDK 54)** – Development tooling & build system
 * **React Native** – Cross-platform mobile UI
 * **JavaScript (ES6+)** – Application logic
+* **Python** - For backend development
+* **Postgresql** - For database 
 
 ### Navigation & UI
 
